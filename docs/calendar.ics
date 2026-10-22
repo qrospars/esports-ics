@@ -454,6 +454,18 @@ STATUS:CONFIRMED
 URL:https://esportscalendar.app
 END:VEVENT
 BEGIN:VEVENT
+UID:1761571@https://esportscalendar.app
+DTSTAMP:20261102T070000Z
+DTSTART:20261102T070000Z
+DTEND:20261102T100000Z
+SUMMARY:[Counter-Strike] Group A - Upper Bracket Quarterfinal 2: HERO vs B8
+DESCRIPTION:Heroic vs B8 - Group A - IEM (Counter-Strike)\n\nWatch live: ht
+ tps://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 UID:1761572@https://esportscalendar.app
 DTSTAMP:20261102T070000Z
 DTSTART:20261102T070000Z
@@ -467,14 +479,26 @@ STATUS:CONFIRMED
 URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-UID:1761573@https://esportscalendar.app
+UID:1761567@https://esportscalendar.app
 DTSTAMP:20261102T070000Z
 DTSTART:20261102T070000Z
 DTEND:20261102T100000Z
-SUMMARY:[Counter-Strike] Group A - Upper Bracket Quarterfinal 4: NAVI vs FA
- L
-DESCRIPTION:Natus Vincere vs Team Falcons - Group A - IEM (Counter-Strike)\
- n\nWatch live: https://www.twitch.tv/ESLCS
+SUMMARY:[Counter-Strike] Group A - Upper Bracket Quarterfinal 1: LGC vs MGL
+ Z
+DESCRIPTION:Legacy vs TheMongolz - Group A - IEM (Counter-Strike)\n\nWatch 
+ live: https://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1761577@https://esportscalendar.app
+DTSTAMP:20261102T070000Z
+DTSTART:20261102T070000Z
+DTEND:20261102T100000Z
+SUMMARY:[Counter-Strike] Group B - Upper Bracket Quarterfinal 3: AUR vs TL
+DESCRIPTION:Aurora Gaming vs Liquid - Group B - IEM (Counter-Strike)\n\nWat
+ ch live: https://www.twitch.tv/ESLCS
 LOCATION:IEM - Beijing
 STATUS:CONFIRMED
 URL:https://www.twitch.tv/ESLCS
@@ -517,38 +541,14 @@ STATUS:CONFIRMED
 URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-UID:1761571@https://esportscalendar.app
+UID:1761573@https://esportscalendar.app
 DTSTAMP:20261102T070000Z
 DTSTART:20261102T070000Z
 DTEND:20261102T100000Z
-SUMMARY:[Counter-Strike] Group A - Upper Bracket Quarterfinal 2: HERO vs B8
-DESCRIPTION:Heroic vs B8 - Group A - IEM (Counter-Strike)\n\nWatch live: ht
- tps://www.twitch.tv/ESLCS
-LOCATION:IEM - Beijing
-STATUS:CONFIRMED
-URL:https://www.twitch.tv/ESLCS
-END:VEVENT
-BEGIN:VEVENT
-UID:1761577@https://esportscalendar.app
-DTSTAMP:20261102T070000Z
-DTSTART:20261102T070000Z
-DTEND:20261102T100000Z
-SUMMARY:[Counter-Strike] Group B - Upper Bracket Quarterfinal 3: AUR vs TL
-DESCRIPTION:Aurora Gaming vs Liquid - Group B - IEM (Counter-Strike)\n\nWat
- ch live: https://www.twitch.tv/ESLCS
-LOCATION:IEM - Beijing
-STATUS:CONFIRMED
-URL:https://www.twitch.tv/ESLCS
-END:VEVENT
-BEGIN:VEVENT
-UID:1761567@https://esportscalendar.app
-DTSTAMP:20261102T070000Z
-DTSTART:20261102T070000Z
-DTEND:20261102T100000Z
-SUMMARY:[Counter-Strike] Group A - Upper Bracket Quarterfinal 1: LGC vs MGL
- Z
-DESCRIPTION:Legacy vs TheMongolz - Group A - IEM (Counter-Strike)\n\nWatch 
- live: https://www.twitch.tv/ESLCS
+SUMMARY:[Counter-Strike] Group A - Upper Bracket Quarterfinal 4: NAVI vs FA
+ L
+DESCRIPTION:Natus Vincere vs Team Falcons - Group A - IEM (Counter-Strike)\
+ n\nWatch live: https://www.twitch.tv/ESLCS
 LOCATION:IEM - Beijing
 STATUS:CONFIRMED
 URL:https://www.twitch.tv/ESLCS
