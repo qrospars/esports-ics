@@ -7,102 +7,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:1710932@https://esportscalendar.app
-DTSTAMP:20261023T170000Z
-DTSTART:20261023T170000Z
-DTEND:20261023T180000Z
-SUMMARY:[LoL] Group Stage - Round 1: GEN vs IG
-DESCRIPTION:Gen.G vs Invictus Gaming [Finished] - Group Stage - Worlds (LoL
- )\n\nWatch live: https://www.youtube.com/watch?v=h7CiX2esSb0
-LOCATION:Worlds
-STATUS:CONFIRMED
-URL:https://www.youtube.com/watch?v=h7CiX2esSb0
-END:VEVENT
-BEGIN:VEVENT
-UID:1710936@https://esportscalendar.app
-DTSTAMP:20261023T181500Z
-DTSTART:20261023T181500Z
-DTEND:20261023T191500Z
-SUMMARY:[LoL] Group Stage - Round 1: HLE vs TES
-DESCRIPTION:Hanwha Life Esports vs Top Esports [Finished] - Group Stage - W
- orlds (LoL)\n\nWatch live: https://www.twitch.tv/riotgames
-LOCATION:Worlds
-STATUS:CONFIRMED
-URL:https://www.twitch.tv/riotgames
-END:VEVENT
-BEGIN:VEVENT
-UID:1710939@https://esportscalendar.app
-DTSTAMP:20261023T191000Z
-DTSTART:20261023T191000Z
-DTEND:20261023T201000Z
-SUMMARY:[LoL] Group Stage - Round 1: BLG vs MKOI
-DESCRIPTION:Bilibili Gaming vs Movistar KOI [Finished] - Group Stage - Worl
- ds (LoL)\n\nWatch live: https://www.twitch.tv/riotgames
-LOCATION:Worlds
-STATUS:CONFIRMED
-URL:https://www.twitch.tv/riotgames
-END:VEVENT
-BEGIN:VEVENT
-UID:1710934@https://esportscalendar.app
-DTSTAMP:20261023T201500Z
-DTSTART:20261023T201500Z
-DTEND:20261023T211500Z
-SUMMARY:[LoL] Group Stage - Round 1: AL vs KC
-DESCRIPTION:Anyone's Legend vs Karmine Corp [Finished] - Group Stage - Worl
- ds (LoL)\n\nWatch live: https://www.twitch.tv/riotgames
-LOCATION:Worlds
-STATUS:CONFIRMED
-URL:https://www.twitch.tv/riotgames
-END:VEVENT
-BEGIN:VEVENT
-UID:1710935@https://esportscalendar.app
-DTSTAMP:20261023T211000Z
-DTSTART:20261023T211000Z
-DTEND:20261023T221000Z
-SUMMARY:[LoL] Group Stage - Round 1: G2 vs DK
-DESCRIPTION:G2 Esports vs Dplus KIA [Finished] - Group Stage - Worlds (LoL)
- \n\nWatch live: https://www.twitch.tv/riotgames
-LOCATION:Worlds
-STATUS:CONFIRMED
-URL:https://www.twitch.tv/riotgames
-END:VEVENT
-BEGIN:VEVENT
-UID:1710933@https://esportscalendar.app
-DTSTAMP:20261023T221000Z
-DTSTART:20261023T221000Z
-DTEND:20261023T231000Z
-SUMMARY:[LoL] Group Stage - Round 1: TL vs CFO
-DESCRIPTION:Team Liquid vs CTBC Flying Oyster [Finished] - Group Stage - Wo
- rlds (LoL)\n\nWatch live: https://www.twitch.tv/riotgames
-LOCATION:Worlds
-STATUS:CONFIRMED
-URL:https://www.twitch.tv/riotgames
-END:VEVENT
-BEGIN:VEVENT
-UID:1710937@https://esportscalendar.app
-DTSTAMP:20261023T231500Z
-DTSTART:20261023T231500Z
-DTEND:20261024T001500Z
-SUMMARY:[LoL] Group Stage - Round 1: LOS vs T1
-DESCRIPTION:LOS vs T1 [Finished] - Group Stage - Worlds (LoL)\n\nWatch live
- : https://www.twitch.tv/riotgames
-LOCATION:Worlds
-STATUS:CONFIRMED
-URL:https://www.twitch.tv/riotgames
-END:VEVENT
-BEGIN:VEVENT
-UID:1710938@https://esportscalendar.app
-DTSTAMP:20261024T000500Z
-DTSTART:20261024T000500Z
-DTEND:20261024T010500Z
-SUMMARY:[LoL] Group Stage - Round 1: TSW vs LY
-DESCRIPTION:Team Secret Whales vs LYON [Finished] - Group Stage - Worlds (L
- oL)\n\nWatch live: https://www.twitch.tv/riotgames
-LOCATION:Worlds
-STATUS:CONFIRMED
-URL:https://www.twitch.tv/riotgames
-END:VEVENT
-BEGIN:VEVENT
 UID:1710946@https://esportscalendar.app
 DTSTAMP:20261024T170500Z
 DTSTART:20261024T170500Z
@@ -344,48 +248,48 @@ URL:https://www.twitch.tv/riotgames
 END:VEVENT
 BEGIN:VEVENT
 UID:1711005@https://esportscalendar.app
-DTSTAMP:20261030T200000Z
-DTSTART:20261030T200000Z
-DTEND:20261030T230000Z
+DTSTAMP:20261030T200500Z
+DTSTART:20261030T200500Z
+DTEND:20261030T230500Z
 SUMMARY:[LoL] Group Stage - Round 4: TL vs LOS
-DESCRIPTION:Team Liquid vs LOS - Group Stage - Worlds (LoL)\n\nWatch live: 
- https://www.youtube.com/@lolesports/live
+DESCRIPTION:Team Liquid vs LOS [Finished] - Group Stage - Worlds (LoL)\n\nW
+ atch live: https://www.twitch.tv/riotgames
 LOCATION:Worlds
 STATUS:CONFIRMED
-URL:https://www.youtube.com/@lolesports/live
+URL:https://www.twitch.tv/riotgames
 END:VEVENT
 BEGIN:VEVENT
 UID:1711006@https://esportscalendar.app
-DTSTAMP:20261030T230000Z
-DTSTART:20261030T230000Z
-DTEND:20261031T020000Z
+DTSTAMP:20261030T231000Z
+DTSTART:20261030T231000Z
+DTEND:20261031T021000Z
 SUMMARY:[LoL] Group Stage - Round 4: HLE vs G2
-DESCRIPTION:Hanwha Life Esports vs G2 Esports - Group Stage - Worlds (LoL)\
- n\nWatch live: https://www.youtube.com/@lolesports/live
+DESCRIPTION:Hanwha Life Esports vs G2 Esports [Finished] - Group Stage - Wo
+ rlds (LoL)\n\nWatch live: https://www.twitch.tv/riotgames
+LOCATION:Worlds
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+UID:1711009@https://esportscalendar.app
+DTSTAMP:20261031T170000Z
+DTSTART:20261031T170000Z
+DTEND:20261031T200000Z
+SUMMARY:[LoL] Group Stage - Round 5: KC vs MKOI
+DESCRIPTION:Karmine Corp vs Movistar KOI - Group Stage - Worlds (LoL)\n\nWa
+ tch live: https://www.youtube.com/@lolesports/live
 LOCATION:Worlds
 STATUS:CONFIRMED
 URL:https://www.youtube.com/@lolesports/live
 END:VEVENT
 BEGIN:VEVENT
 UID:1711008@https://esportscalendar.app
-DTSTAMP:20261031T170000Z
-DTSTART:20261031T170000Z
-DTEND:20261031T200000Z
-SUMMARY:[LoL] Group Stage - Round 5: TBD vs TBD
-DESCRIPTION:TBD vs TBD - Group Stage - Worlds (LoL)\n\nWatch live: https://
- www.youtube.com/@lolesports/live
-LOCATION:Worlds
-STATUS:CONFIRMED
-URL:https://www.youtube.com/@lolesports/live
-END:VEVENT
-BEGIN:VEVENT
-UID:1711009@https://esportscalendar.app
 DTSTAMP:20261031T200000Z
 DTSTART:20261031T200000Z
 DTEND:20261031T230000Z
-SUMMARY:[LoL] Group Stage - Round 5: TBD vs TBD
-DESCRIPTION:TBD vs TBD - Group Stage - Worlds (LoL)\n\nWatch live: https://
- www.youtube.com/@lolesports/live
+SUMMARY:[LoL] Group Stage - Round 5: LOS vs LY
+DESCRIPTION:LOS vs LYON - Group Stage - Worlds (LoL)\n\nWatch live: https:/
+ /www.youtube.com/@lolesports/live
 LOCATION:Worlds
 STATUS:CONFIRMED
 URL:https://www.youtube.com/@lolesports/live
@@ -395,18 +299,31 @@ UID:1711010@https://esportscalendar.app
 DTSTAMP:20261031T230000Z
 DTSTART:20261031T230000Z
 DTEND:20261101T020000Z
-SUMMARY:[LoL] Group Stage - Round 5: TBD vs TBD
-DESCRIPTION:TBD vs TBD - Group Stage - Worlds (LoL)\n\nWatch live: https://
- www.youtube.com/@lolesports/live
+SUMMARY:[LoL] Group Stage - Round 5: HLE vs BLG
+DESCRIPTION:Hanwha Life Esports vs Bilibili Gaming - Group Stage - Worlds (
+ LoL)\n\nWatch live: https://www.youtube.com/@lolesports/live
 LOCATION:Worlds
 STATUS:CONFIRMED
 URL:https://www.youtube.com/@lolesports/live
 END:VEVENT
 BEGIN:VEVENT
+UID:1761567@https://esportscalendar.app
+DTSTAMP:20261102T020000Z
+DTSTART:20261102T020000Z
+DTEND:20261102T050000Z
+SUMMARY:[Counter-Strike] Group A - Upper Bracket Quarterfinal 1: LGC vs MGL
+ Z
+DESCRIPTION:Legacy vs TheMongolz - Group A - IEM (Counter-Strike)\n\nWatch 
+ live: https://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 UID:1761571@https://esportscalendar.app
-DTSTAMP:20261102T070000Z
-DTSTART:20261102T070000Z
-DTEND:20261102T100000Z
+DTSTAMP:20261102T020000Z
+DTSTART:20261102T020000Z
+DTEND:20261102T050000Z
 SUMMARY:[Counter-Strike] Group A - Upper Bracket Quarterfinal 2: HERO vs B8
 DESCRIPTION:Heroic vs B8 - Group A - IEM (Counter-Strike)\n\nWatch live: ht
  tps://www.twitch.tv/ESLCS
@@ -415,26 +332,25 @@ STATUS:CONFIRMED
 URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-UID:1761577@https://esportscalendar.app
-DTSTAMP:20261102T070000Z
-DTSTART:20261102T070000Z
-DTEND:20261102T100000Z
-SUMMARY:[Counter-Strike] Group B - Upper Bracket Quarterfinal 3: AUR vs TL
-DESCRIPTION:Aurora Gaming vs Liquid - Group B - IEM (Counter-Strike)\n\nWat
- ch live: https://www.twitch.tv/ESLCS
+UID:1761578@https://esportscalendar.app
+DTSTAMP:20261102T043000Z
+DTSTART:20261102T043000Z
+DTEND:20261102T073000Z
+SUMMARY:[Counter-Strike] Group B - Upper Bracket Quarterfinal 4: PRV vs G2
+DESCRIPTION:PARIVISION vs G2 - Group B - IEM (Counter-Strike)\n\nWatch live
+ : https://www.twitch.tv/ESLCS
 LOCATION:IEM - Beijing
 STATUS:CONFIRMED
 URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-UID:1761573@https://esportscalendar.app
-DTSTAMP:20261102T070000Z
-DTSTART:20261102T070000Z
-DTEND:20261102T100000Z
-SUMMARY:[Counter-Strike] Group A - Upper Bracket Quarterfinal 4: NAVI vs FA
- L
-DESCRIPTION:Natus Vincere vs Team Falcons - Group A - IEM (Counter-Strike)\
- n\nWatch live: https://www.twitch.tv/ESLCS
+UID:1761577@https://esportscalendar.app
+DTSTAMP:20261102T043000Z
+DTSTART:20261102T043000Z
+DTEND:20261102T073000Z
+SUMMARY:[Counter-Strike] Group B - Upper Bracket Quarterfinal 3: AUR vs TL
+DESCRIPTION:Aurora Gaming vs Liquid - Group B - IEM (Counter-Strike)\n\nWat
+ ch live: https://www.twitch.tv/ESLCS
 LOCATION:IEM - Beijing
 STATUS:CONFIRMED
 URL:https://www.twitch.tv/ESLCS
@@ -447,31 +363,6 @@ DTEND:20261102T100000Z
 SUMMARY:[Counter-Strike] Group B - Upper Bracket Quarterfinal 2: 9z vs BB
 DESCRIPTION:9z vs BetBoom Team - Group B - IEM (Counter-Strike)\n\nWatch li
  ve: https://www.twitch.tv/ESLCS
-LOCATION:IEM - Beijing
-STATUS:CONFIRMED
-URL:https://www.twitch.tv/ESLCS
-END:VEVENT
-BEGIN:VEVENT
-UID:1761567@https://esportscalendar.app
-DTSTAMP:20261102T070000Z
-DTSTART:20261102T070000Z
-DTEND:20261102T100000Z
-SUMMARY:[Counter-Strike] Group A - Upper Bracket Quarterfinal 1: LGC vs MGL
- Z
-DESCRIPTION:Legacy vs TheMongolz - Group A - IEM (Counter-Strike)\n\nWatch 
- live: https://www.twitch.tv/ESLCS
-LOCATION:IEM - Beijing
-STATUS:CONFIRMED
-URL:https://www.twitch.tv/ESLCS
-END:VEVENT
-BEGIN:VEVENT
-UID:1761578@https://esportscalendar.app
-DTSTAMP:20261102T070000Z
-DTSTART:20261102T070000Z
-DTEND:20261102T100000Z
-SUMMARY:[Counter-Strike] Group B - Upper Bracket Quarterfinal 4: PRV vs G2
-DESCRIPTION:PARIVISION vs G2 - Group B - IEM (Counter-Strike)\n\nWatch live
- : https://www.twitch.tv/ESLCS
 LOCATION:IEM - Beijing
 STATUS:CONFIRMED
 URL:https://www.twitch.tv/ESLCS
@@ -490,14 +381,123 @@ STATUS:CONFIRMED
 URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
+UID:1761573@https://esportscalendar.app
+DTSTAMP:20261102T093000Z
+DTSTART:20261102T093000Z
+DTEND:20261102T123000Z
+SUMMARY:[Counter-Strike] Group A - Upper Bracket Quarterfinal 4: NAVI vs FA
+ L
+DESCRIPTION:Natus Vincere vs Team Falcons - Group A - IEM (Counter-Strike)\
+ n\nWatch live: https://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 UID:1761575@https://esportscalendar.app
-DTSTAMP:20261102T070000Z
-DTSTART:20261102T070000Z
-DTEND:20261102T100000Z
+DTSTAMP:20261102T093000Z
+DTSTART:20261102T093000Z
+DTEND:20261102T123000Z
 SUMMARY:[Counter-Strike] Group B - Upper Bracket Quarterfinal 1: MOUZ vs TY
  LOO
 DESCRIPTION:MOUZ vs TYLOO - Group B - IEM (Counter-Strike)\n\nWatch live: h
  ttps://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781461@https://esportscalendar.app
+DTSTAMP:20261103T020000Z
+DTSTART:20261103T020000Z
+DTEND:20261103T050000Z
+SUMMARY:[Counter-Strike] Group A - Upper Bracket Semifinal 1: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group A - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781462@https://esportscalendar.app
+DTSTAMP:20261103T020000Z
+DTSTART:20261103T020000Z
+DTEND:20261103T050000Z
+SUMMARY:[Counter-Strike] Group A - Upper Bracket Semifinal 2: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group A - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781464@https://esportscalendar.app
+DTSTAMP:20261103T043000Z
+DTSTART:20261103T043000Z
+DTEND:20261103T073000Z
+SUMMARY:[Counter-Strike] Group A - Lower Bracket Quarterfinal 1: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group A - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781465@https://esportscalendar.app
+DTSTAMP:20261103T043000Z
+DTSTART:20261103T043000Z
+DTEND:20261103T073000Z
+SUMMARY:[Counter-Strike] Group A - Lower Bracket Quarterfinal 2: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group A - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781466@https://esportscalendar.app
+DTSTAMP:20261103T070000Z
+DTSTART:20261103T070000Z
+DTEND:20261103T100000Z
+SUMMARY:[Counter-Strike] Group A - Lower Bracket Semifinal 1: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group A - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781467@https://esportscalendar.app
+DTSTAMP:20261103T070000Z
+DTSTART:20261103T070000Z
+DTEND:20261103T100000Z
+SUMMARY:[Counter-Strike] Group A - Lower Bracket Semifinal 2: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group A - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781463@https://esportscalendar.app
+DTSTAMP:20261103T093000Z
+DTSTART:20261103T093000Z
+DTEND:20261103T123000Z
+SUMMARY:[Counter-Strike] Group A - Upper Bracket Final: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group A - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781468@https://esportscalendar.app
+DTSTAMP:20261103T093000Z
+DTSTART:20261103T093000Z
+DTEND:20261103T123000Z
+SUMMARY:[Counter-Strike] Group A - Lower Bracket Final: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group A - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
 LOCATION:IEM - Beijing
 STATUS:CONFIRMED
 URL:https://www.twitch.tv/ESLCS
@@ -513,6 +513,102 @@ DESCRIPTION:TBD vs TBD - Playoffs - Worlds (LoL)\n\nWatch live: https://www
 LOCATION:Worlds
 STATUS:CONFIRMED
 URL:https://www.youtube.com/@LCK/live
+END:VEVENT
+BEGIN:VEVENT
+UID:1781469@https://esportscalendar.app
+DTSTAMP:20261104T020000Z
+DTSTART:20261104T020000Z
+DTEND:20261104T050000Z
+SUMMARY:[Counter-Strike] Group B - Upper Bracket Semifinal 1: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group B - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781470@https://esportscalendar.app
+DTSTAMP:20261104T020000Z
+DTSTART:20261104T020000Z
+DTEND:20261104T050000Z
+SUMMARY:[Counter-Strike] Group B - Upper Bracket Semifinal 2: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group B - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781473@https://esportscalendar.app
+DTSTAMP:20261104T043000Z
+DTSTART:20261104T043000Z
+DTEND:20261104T073000Z
+SUMMARY:[Counter-Strike] Group B - Lower Bracket Quarterfinal 2: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group B - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781472@https://esportscalendar.app
+DTSTAMP:20261104T043000Z
+DTSTART:20261104T043000Z
+DTEND:20261104T073000Z
+SUMMARY:[Counter-Strike] Group B - Lower Bracket Quarterfinal 1: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group B - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781474@https://esportscalendar.app
+DTSTAMP:20261104T070000Z
+DTSTART:20261104T070000Z
+DTEND:20261104T100000Z
+SUMMARY:[Counter-Strike] Group B - Lower Bracket Semifinal 1: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group B - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781475@https://esportscalendar.app
+DTSTAMP:20261104T070000Z
+DTSTART:20261104T070000Z
+DTEND:20261104T100000Z
+SUMMARY:[Counter-Strike] Group B - Lower Bracket Semifinal 2: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group B - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781471@https://esportscalendar.app
+DTSTAMP:20261104T093000Z
+DTSTART:20261104T093000Z
+DTEND:20261104T123000Z
+SUMMARY:[Counter-Strike] Group B - Upper Bracket Final: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group B - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781476@https://esportscalendar.app
+DTSTAMP:20261104T093000Z
+DTSTART:20261104T093000Z
+DTEND:20261104T123000Z
+SUMMARY:[Counter-Strike] Group B - Lower Bracket Final: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Group B - IEM (Counter-Strike)\n\nWatch live: http
+ s://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
 UID:1711016@https://esportscalendar.app
@@ -539,6 +635,30 @@ STATUS:CONFIRMED
 URL:https://www.youtube.com/@LCK/live
 END:VEVENT
 BEGIN:VEVENT
+UID:1781482@https://esportscalendar.app
+DTSTAMP:20261106T063000Z
+DTSTART:20261106T063000Z
+DTEND:20261106T093000Z
+SUMMARY:[Counter-Strike] Playoffs - Quarterfinal 1: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Playoffs - IEM (Counter-Strike)\n\nWatch live: htt
+ ps://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781483@https://esportscalendar.app
+DTSTAMP:20261106T094500Z
+DTSTART:20261106T094500Z
+DTEND:20261106T124500Z
+SUMMARY:[Counter-Strike] Playoffs - Quarterfinal 2: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Playoffs - IEM (Counter-Strike)\n\nWatch live: htt
+ ps://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 UID:1711018@https://esportscalendar.app
 DTSTAMP:20261106T220000Z
 DTSTART:20261106T220000Z
@@ -551,6 +671,30 @@ STATUS:CONFIRMED
 URL:https://www.youtube.com/@LCK/live
 END:VEVENT
 BEGIN:VEVENT
+UID:1781484@https://esportscalendar.app
+DTSTAMP:20261107T063000Z
+DTSTART:20261107T063000Z
+DTEND:20261107T093000Z
+SUMMARY:[Counter-Strike] Playoffs - Semifinal 1: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Playoffs - IEM (Counter-Strike)\n\nWatch live: htt
+ ps://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781485@https://esportscalendar.app
+DTSTAMP:20261107T094500Z
+DTSTART:20261107T094500Z
+DTEND:20261107T124500Z
+SUMMARY:[Counter-Strike] Playoffs - Semifinal 2: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Playoffs - IEM (Counter-Strike)\n\nWatch live: htt
+ ps://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 UID:1711019@https://esportscalendar.app
 DTSTAMP:20261107T220000Z
 DTSTART:20261107T220000Z
@@ -561,6 +705,30 @@ DESCRIPTION:TBD vs TBD - Playoffs - Worlds (LoL)\n\nWatch live: https://www
 LOCATION:Worlds
 STATUS:CONFIRMED
 URL:https://www.youtube.com/@LCK/live
+END:VEVENT
+BEGIN:VEVENT
+UID:1781487@https://esportscalendar.app
+DTSTAMP:20261108T040000Z
+DTSTART:20261108T040000Z
+DTEND:20261108T070000Z
+SUMMARY:[Counter-Strike] Playoffs - Third Place Match: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Playoffs - IEM (Counter-Strike)\n\nWatch live: htt
+ ps://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+UID:1781486@https://esportscalendar.app
+DTSTAMP:20261108T073000Z
+DTSTART:20261108T073000Z
+DTEND:20261108T123000Z
+SUMMARY:[Counter-Strike] Playoffs - Grand Final: TBD vs TBD
+DESCRIPTION:TBD vs TBD - Playoffs - IEM (Counter-Strike)\n\nWatch live: htt
+ ps://www.twitch.tv/ESLCS
+LOCATION:IEM - Beijing
+STATUS:CONFIRMED
+URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
 UID:1711020@https://esportscalendar.app
